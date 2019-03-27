@@ -62,27 +62,31 @@ padding: 7% 15%;
   margin-bottom: 1rem;
 }
 .icon:hover{
-  color:#ff4c68; 
+  color:#ff4c68;
 }
 
 #testimonials{
-	padding: 7% 15%;
-	text-align: center; 
+
+	text-align: center;
 	background-color: #ef8172;
 	color:#fff;
 }
 .testimonial-image{
 	width: 10%;
-	border-radius:200%; 
-	margin:20px; 
+	border-radius:200%;
+	margin:20px;
 }
 #press{
-	background-color: #ef8172;	 
-	text-align: center; 
+	background-color: #ef8172;
+	text-align: center;
 	padding-bottom:3%;
 }
 .press-logo{
 	width:15%;
 	margin:20px 20px 50px;
-	
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
 }
