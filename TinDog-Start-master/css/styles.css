@@ -115,3 +115,24 @@ padding: 100px;
   transform: rotate(0);
 }
 }
+
+#cta{
+  color: #FFF;
+  background-color: #FF4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+.cta-heading{
+   font-family: "Montserrat-Black";
+   font-size: 3.5rem;
+   line-height: 1.5;
+}
+
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  line-height: 1.5rem;
+}
+.social-icon{
+  margin: 20px 10px;
+}
